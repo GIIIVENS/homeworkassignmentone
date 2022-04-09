@@ -1,2 +1,2 @@
 # homeworkassignmentone
-First homework assignment 
+First homework assignment, editing the Horison website for accessibility
